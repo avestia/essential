@@ -1,0 +1,21 @@
+{
+    "name": "avestia/essential",
+    "description": "Essential Library for Avestia Package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Avestia\\Essential\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yuka Astersea",
+            "email": "yuka.astersea@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.0"
+    }
+}
